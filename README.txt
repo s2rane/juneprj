@@ -19,5 +19,5 @@ Below are the filenames in the repository besides readme.
 2)tidy.txt which the tidy dataset
 3)CodeBook.txt
 
-The dataset is tiday because each colum represents one variable that does not change across rows
-
+The dataset is tidy because each colum represents one variable that does not change across rows
+Tidy.txt file represents the subjects the mean of various measurements of their various activities.
